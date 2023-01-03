@@ -13,6 +13,7 @@ List of useful links to reference when building a website
 - [BulletProof React Repo](https://github.com/alan2207/bulletproof-react)
 
 ## Design
+- https://lawsofux.com/
 - https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
 
 ### Design Inspiration
