@@ -20,3 +20,9 @@ List of useful links to reference when building a website
 - https://dribbble.com/
 - https://www.behance.net/
 - https://www.awwwards.com/
+
+
+## Architecture
+
+### Typescript
+- https://medium.com/mintbean-io/how-i-organize-my-typescript-types-d9ae7f3ac30f
