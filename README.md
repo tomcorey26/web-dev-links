@@ -24,5 +24,10 @@ List of useful links to reference when building a website
 
 ## Architecture
 
+### CSS
+- [Responsive Design Tutorial](https://web.dev/learn/design/)
+- [That weird thing where overflow doesnt work on flex items unless you set height:0](https://stackoverflow.com/questions/14962468/how-can-i-combine-flexbox-and-vertical-scroll-in-a-full-height-app)
+
 ### Typescript
 - https://medium.com/mintbean-io/how-i-organize-my-typescript-types-d9ae7f3ac30f
+
