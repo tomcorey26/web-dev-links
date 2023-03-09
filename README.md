@@ -15,6 +15,8 @@ List of useful links to reference when building a website
 ## Design
 - https://lawsofux.com/
 - https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
+- [Site Color Scheme](https://www.youtube.com/shorts/7PRSqUwAuis)
+- [Color Scheme Full Video](https://www.youtube.com/watch?v=mq8LYj6kRyE&t=638s)
 
 ### Design Inspiration
 - https://dribbble.com/
