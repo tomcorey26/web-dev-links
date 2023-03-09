@@ -11,6 +11,7 @@ List of useful links to reference when building a website
 ### Starter Templates and Examples
 - [Vite Starter Templates](https://github.com/vitejs/awesome-vite#templates)
 - [BulletProof React Repo](https://github.com/alan2207/bulletproof-react)
+- [T3 Stack](https://github.com/t3-oss/create-t3-app)
 
 ## Design
 - https://lawsofux.com/
