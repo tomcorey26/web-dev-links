@@ -18,6 +18,7 @@ List of useful links to reference when building a website
 - https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
 - [Site Color Scheme](https://www.youtube.com/shorts/7PRSqUwAuis)
 - [Color Scheme Full Video](https://www.youtube.com/watch?v=mq8LYj6kRyE&t=638s)
+- [Different UI states](https://twitter.com/MichaelThiessen/status/1493209662153498625)
 
 ### Design Inspiration
 - https://dribbble.com/
@@ -26,6 +27,9 @@ List of useful links to reference when building a website
 
 
 ## Architecture
+
+### AI
+- [Stack for building AI app](https://twitter.com/steventey/status/1618298340541886465)
 
 ### CSS
 - [Responsive Design Tutorial](https://web.dev/learn/design/)
