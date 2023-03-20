@@ -14,8 +14,8 @@ List of useful links to reference when building a website
 - [T3 Stack](https://github.com/t3-oss/create-t3-app)
 
 ## Design
-- [https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F](Midjourney Generate Mocks)
-- [https://shuffle.dev/](Create landing page using drag and drop + tailwind)
+- [Midjourney Generate Mocks](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
+- [Create landing page using drag and drop + tailwind](https://shuffle.dev/)
 - https://lawsofux.com/
 - https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
 - [Site Color Scheme](https://www.youtube.com/shorts/7PRSqUwAuis)
